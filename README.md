@@ -1,7 +1,7 @@
 Greater Augusta Open Data Portal
 ================================
 
-Super Happy Block Party 2013 Hackathon Challenge #1
+Super Happy Block Party 2013 Hackathon Challenge #1  
 Sponsored by The Augusta Chronicle (http://augustachronicle.com)
 
 Objective
