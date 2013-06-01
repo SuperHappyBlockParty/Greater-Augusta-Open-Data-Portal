@@ -1,0 +1,11 @@
+HOSPITAL_,HOSPITAL_ID,FNAME,FCODE,Address,Website,Phone
+1,152,East Central Regional Hospital,MDMEN,3405 Mike Padgett Hwy,http://www.augustareg.dhr.state.ga.us/,706-790-2011
+2,159,Gracewood State Hospital,MDMEN,100 Myrtle Blvd,http://www.augustareg.dhr.state.ga.us/,706-790-2011
+4,61,Trinity Hospital of Augusta,MDHOS,2260 Wrightsboro Rd,http://www.trinityofaugusta.com/Pages/home.aspx,706-481-7000
+5,62,VA Hospital - Uptown,MDVET,1 Freedom Way,http://www.augusta.va.gov/,706-733-0188
+6,63,University Hospital,MDHOS,1350 Walton Way,http://www.universityhealth.org/,706-722-9011
+7,64,VA Hospital - Downtown,MDVET,950 15th St,http://www.augusta.va.gov/,706-733-0188
+8,162,Eisenhower Army Medical Center,MDMIL,Ft Gordon,http://www.ddeamc.amedd.army.mil/,706-787-5811
+9,161,Doctors Hospital,MDHOS,3651 Wheeler Rd,http://www.doctors-hospital.net/,706-651-3232
+3,57,Georgia Health Sciences Medical Center,MDHOS,1120 15th St,http://www.mcghealth.org/,800-736-2273
+3,12,Children's Medical Center,MDHOS,1446 Harper St,http://www.augusta.va.gov/,800-721-5437
